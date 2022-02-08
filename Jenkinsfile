@@ -5,4 +5,4 @@ env.COMPONENT = "shipping"
 env.BUILD_LABEL = "WORKSTATION"
 
 // Library Groovy file
-java()
+immutable_java()
